@@ -1,0 +1,12 @@
+.sec-space{ padding:110px 0;}
+.main-heading{text-align:center;}
+.main-heading h4{ text-transform: uppercase; letter-spacing: 11px;}
+.main-heading h1{ background: url(../img/black-wave.png) no-repeat center 108px; padding:0 0 18px 0; margin:-14px 0 0 0;}
+.main-heading span{font-family:'Montserrat', sans-serif; font-size:20px; margin:12px 0 0 0; display: inline-block;}
+
+.main-heading.white h4{ color: #fff; text-transform: uppercase; letter-spacing: 11px;}
+.main-heading.white h1{ background: url(../img/white-wave.png) no-repeat center 125px; color:#fff;}
+.main-heading.white  span{ color:#fff;}
+.clear{
+	clear:both;
+}
